@@ -1,0 +1,71 @@
+*{margin: 0px;
+  padding: 0px;
+}
+nav{margin-top:-100px ;
+  margin-left:20px ;
+}
+#texto{background: rgba(81, 73, 136, 1);
+  width:50% ;
+  height: 530px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  margin-top: 19px;
+}
+#texth1{color:rgba(243, 198, 31, 1);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 65px;
+  margin-top:20px ;
+}
+#texth2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:35px ;
+  margin-bottom: 20px;
+}
+#p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+.Menu{display: flex;
+  text-align: center;
+}
+#p2{margin-left:100px;display: flex;
+  margin-top: 110px;
+  margin-left:-500px;
+  font-size: 20px;
+  color: rgba(227, 56, 129, 1);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#coutdown{display: flex;
+  flex-direction: row;}
+.cd-item{color:rgba(81, 73, 136, 1);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  margin-top: 40px;
+  margin-left: 20px;
+  }
+#video{margin-top: 240px;
+  margin-left: -500px;
+  margin-top: 120px;
+}  
+#texto-biletes{ color: rgba(243, 198, 31, 1);
+  margin-top: 20px;
+  margin-left:80px ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 27px;
+}
+.Biletes{margin-top:-160px ;
+  margin-left: 30px ;
+  cursor:pointer; 
+}
+button{font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 27px;
+  background: rgba(81, 73, 136, 1);
+  color :rgba(255, 255, 255, 1);
+  Line-height :51.04px;
+  width: 296px;
+  height: 120px;
+  border-radius: 20px;
+  margin-top: 60px;
+  margin-left: 990px;
+  cursor: pointer;
+}
+
